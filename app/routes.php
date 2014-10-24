@@ -13,5 +13,33 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('index');
+});
+
+
+
+
+Route::get('/lorem-ipsum', function()
+{
+		
+	return View::make('lorem-ipsum');
+	
+});
+
+
+Route::get('/user-generator', function()
+{
+		
+	return View::make('user-generator');
+	
+});
+
+
+
+
+Route::get('/p2', function()
+{
+		
+	return View::make('p2');
+
 });

@@ -1,0 +1,12 @@
+h2 { width: 600px; padding: 0 40px; border: 3px solid #009999; background-color: #ccffff; border-radius: 25px; text-align:center;display: block;
+margin-left: auto;
+margin-right: auto
+}
+h4 { width: 1000px; padding: 0 40px; border: 3px solid #009999; background-color: #FFFF99; border-radius: 25px; display: block;
+margin-left: auto;
+margin-right: auto
+}
+p { width: 300px; padding: 0 40px; border: 2px solid #009999; background-color: #FC6; border-radius: 20px; text-align:center;display: block;
+margin-left: auto;
+margin-right: auto
+}
