@@ -6,7 +6,9 @@ Recorded demo Screencast Link :  http://screencast.com/t/w2Vf8FRwJ6
 
 Github:   https://github.com/dipeshagarwal/p3
 
-Description of the project:  This is a web application called Developer's Best Friend which includes a 
+Description of the project:  This is a web application called Developer's Best Friend which includes:
+
+
                               Lorem Ipsum Generator:  In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the graphic elements of a document or visual presentation. By replacing the distraction of meaningful content with filler text of scrambled Latin it allows viewers to focus on graphical elements such as font, typography, and layout. 
 							  
 							  
